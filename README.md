@@ -1,6 +1,9 @@
+![Matrix Banner](https://thumbs.gfycat.com/NeatHarshAidi-size_restricted.gif)
+![Matrix Code](https://i.pinimg.com/originals/2b/3f/ba/2b3fba4e439c363df238dab28c166c10.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A41E&size=25&center=true&vCenter=true&width=600&lines=AI/ML+Learner;Python+Programmer;Data+Enthusiast;Exploring+ML+Algorithms)](https://git.io/typing-svg)
 
-# 👋 Hey there, I’m Pranav!
+# 👋 Hey there, I’m Pranav Kanungo!
 
 **AI/ML Enthusiast | Python Learner | Exploring Data & Automation**  
 
