@@ -1,15 +1,58 @@
-# 👋 Hi, I'm Pranav!
-<br>
-✨ Exploring new technologies, solving real-world problems, and building intuitive user experiences.
-<br>
-## 💡 About Me<br>
-- 🌍 Based in India  <br>
-- ⚡ Fun Fact: I love anime, clean UI, and debugging at 2 AM <br>
-## 🤝 Connect With Me
+# 👋 Hey there, I’m Pranav!
 
-📩 Email:pranavkanungo19@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/pranavkanunngo1
-<br>
+**AI/ML Enthusiast | Python Learner | Exploring Data & Automation**  
+
 ---
 
-⭐ If you like my projects, consider giving a star!  
+## 🚀 About Me
+
+- 📍 Based in Sendhwa, Barwani (M.P.), India  
+- 💡 I’m currently focused on learning **Artificial Intelligence**, **Machine Learning**, **Python**, and building small data-driven projects.  
+- 🎯 Goal: Become proficient in ML models, data analysis, and Python automation.  
+- 🌱 Always curious — I love experimenting with new technologies, solving problems, and understanding how things work behind the scenes.
+
+---
+
+## 🧰 Tech Stack & Skills
+
+**Languages:** Python, JavaScript, Java, HTML, CSS  
+**Core Focus Areas:**  
+- Machine Learning Basics  
+- Data Analysis & Visualization  
+- Python Automation Scripts  
+- NumPy, Pandas, Matplotlib (learning)  
+- Basic Statistics & Linear Algebra for ML  
+
+---
+
+## 📁 Projects (AI/ML & Python)
+
+### 🔹 Python Learning Scripts  
+A collection of beginner-friendly Python code exploring loops, functions, data types, math problems, and small automation tasks.
+
+### 🔹 Basic Data Analysis Exercises  
+Small notebooks practicing data cleaning, handling CSV files, and analyzing simple datasets using Pandas & Matplotlib.
+
+### 🔹 ML Concept Practice  
+Notes + scripts where I experiment with training basic ML models (Linear Regression, Classification, Clustering) using scikit-learn.
+
+---
+
+## 📈 GitHub Stats
+
+[![Pranav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavKanungo1&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/PranavKanungo1)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKanungo1&layout=compact&theme=tokyonight)](https://github.com/PranavKanungo1)  
+
+---
+
+## 💡 More About Me
+
+- 🌍 Focused on building a strong foundation in AI/ML  
+- 🧠 Improving problem-solving through coding & algorithms  
+- ⚡ Interested in neural networks, automation, and data science  
+- 📫 Open to learning, collaborating, and growing in the AI/ML field  
+
+---
+
+⭐ If you like my work — feel free to ⭐ star my repos!
+
