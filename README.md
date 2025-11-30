@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A41E&size=25&center=true&vCenter=true&width=600&lines=AI/ML+Learner;Python+Programmer;Data+Enthusiast;Exploring+ML+Algorithms)](https://git.io/typing-svg)
+
 # 👋 Hey there, I’m Pranav!
 
 **AI/ML Enthusiast | Python Learner | Exploring Data & Automation**  
