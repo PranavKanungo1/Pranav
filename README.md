@@ -17,7 +17,7 @@
 
 🟩 About Me<br>
 📍 Live in Sendhwa, Barwani (M.P.), India<br>
-🚌 Adenturer : like to travel 
+🚌 Adenturer : like to travel <br>
 💡 I’m currently focused on learning Artificial Intelligence, Machine Learning, Python, and building small data-driven projects.<br>
 🎯 Goal: Become proficient in ML models, data analysis, and Python automation.<br>
 🌱 Always curious — I love experimenting with new technologies, solving problems, and understanding how things work behind the scenes.<br>
